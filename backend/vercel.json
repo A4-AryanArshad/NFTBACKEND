@@ -3,7 +3,7 @@
     "routes":[
         {
             "src":"/userapi/(.*)",
-            "dest":"/api/app.js"
+             "dest":"/api/index.js"
         }
     ]
 }
